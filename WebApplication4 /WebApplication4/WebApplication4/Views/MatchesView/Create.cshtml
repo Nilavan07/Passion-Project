@@ -1,0 +1,31 @@
+@model WebApplication4.Dtos.MatchCreateDto
+
+@{
+    ViewData["Title"] = "Create Match";
+}
+
+<h1>Create Match</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Home Team ID</label>
+        <input asp-for="HomeTeamId" type="number" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Away Team ID</label>
+        <input asp-for="AwayTeamId" type="number" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Match Date</label>
+        <input asp-for="MatchDate" type="date" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Home Team Score</label>
+        <input asp-for="HomeTeamScore" type="number" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Away Team Score</label>
+        <input asp-for="AwayTeamScore" type="number" class="form-control" required />
+    </div>
+    <button type="submit" class="btn btn-success">Create</button>
+</form>

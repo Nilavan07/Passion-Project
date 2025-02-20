@@ -1,0 +1,21 @@
+@model WebApplication4.Dtos.MatchDto
+
+@{
+    ViewData["Title"] = "Match Details";
+}
+
+<h1>Match Details</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h2 class="card-title">@Model.HomeTeamName vs @Model.AwayTeamName</h2>
+        <p><strong>Home Team:</strong> @Model.HomeTeamName</p>
+        <p><strong>Away Team:</strong> @Model.AwayTeamName</p>
+        <p><strong>Match Date:</strong> @Model.MatchDate.ToString("yyyy-MM-dd")</p>
+        <p><strong>Final Score:</strong> @Model.HomeTeamScore - @Model.AwayTeamScore</p>
+    </div>
+</div>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Back to Matches</a>
+</p>

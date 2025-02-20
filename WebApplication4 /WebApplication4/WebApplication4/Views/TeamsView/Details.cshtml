@@ -1,0 +1,20 @@
+@model WebApplication4.Dtos.TeamDto
+
+@{
+    ViewData["Title"] = "Team Details";
+}
+
+<h1>Team Details</h1>
+
+<div class="card">
+    <div class="card-body">
+        <h2 class="card-title">@Model.Name</h2>
+        <p><strong>Coach:</strong> @Model.Coach</p>
+        <p><strong>Stadium:</strong> @Model.Stadium</p>
+        <p><strong>Founded Year:</strong> @Model.FoundedYear</p>
+    </div>
+</div>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Back to Teams</a>
+</p>

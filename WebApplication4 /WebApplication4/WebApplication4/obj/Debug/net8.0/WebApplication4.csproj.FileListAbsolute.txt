@@ -1,0 +1,802 @@
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/app.db
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Azure.Core.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Azure.Identity.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/MySqlConnector.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+/Users/nilavan/Desktop/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.exe
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Azure.Core.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Azure.Identity.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Drawing.Common.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Memory.Data.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Runtime.Caching.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Security.Permissions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Windows.Extensions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.ClientModel.dll
+F:/Project/canada_1/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/MySqlConnector.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+/Users/nilavan/Desktop/untitled folder/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/MySqlConnector.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+/Users/nilavan/Desktop/Passion Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/MySqlConnector.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.sourcelink.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+/Users/nilavan/Desktop/Passion-Project/WebApplication4/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.Development.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/appsettings.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.endpoints.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.staticwebassets.runtime.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.deps.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.runtimeconfig.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Humanizer.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/MySqlConnector.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.CodeDom.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.AssemblyReference.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfoInputs.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.AssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.csproj.CoreCompileInputs.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.RazorAssemblyInfo.cs
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/bundle/WebApplication4.styles.css
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/scopedcss/projectbundle/WebApplication4.bundle.scp.css
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.development.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApplication4.props
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebAppli.EC757EB8.Up2Date
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/refint/WebApplication4.dll
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.pdb
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/WebApplication4.genruntimeconfig.cache
+/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/Debug/net8.0/ref/WebApplication4.dll
