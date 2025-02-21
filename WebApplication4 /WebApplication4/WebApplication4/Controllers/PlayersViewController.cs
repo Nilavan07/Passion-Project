@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WebApplication4.Dtos;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FootballHub.Controllers
 {
@@ -33,8 +34,9 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error fetching players.";
             return View(new List<PlayerDto>());
         }
-
         // ✅ PLAYER DETAILS
+        [Authorize]
+
         public async Task<IActionResult> Details(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -48,6 +50,7 @@ namespace FootballHub.Controllers
 
             return NotFound();
         }
+[Authorize]
 
         // ✅ SHOW CREATE FORM
         public IActionResult Create()
@@ -72,6 +75,7 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error creating player.";
             return View(player);
         }
+[Authorize]
 
         // ✅ SHOW EDIT FORM
         public async Task<IActionResult> Edit(int id)
@@ -105,6 +109,8 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error updating player.";
             return View(player);
         }
+        [Authorize]
+
 
         // ✅ DELETE CONFIRMATION PAGE
         public async Task<IActionResult> Delete(int id)

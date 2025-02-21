@@ -4,40 +4,52 @@
     ViewData["Title"] = "Players";
 }
 
-<h1>Players</h1>
+<div class="container mt-4">
+    <h1 class="text-center">Player Roster</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">Create New Player</a>
-</p>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <p class="lead">Manage your players below.</p>
+        <a asp-action="Create" class="btn btn-primary">➕ Add New Player</a>
+    </div>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Position</th>
-            <th>Age</th>
-            <th>Goals</th>
-            <th>Assists</th>
-            <th>Team</th>
-            <th>Actions</th>
-        </tr>
-    </thead>
-    <tbody>
-    @foreach (var player in Model)
+    @if (Model.Any())
     {
-        <tr>
-            <td>@player.Name</td>
-            <td>@player.Position</td>
-            <td>@player.Age</td>
-            <td>@player.GoalsScored</td>
-            <td>@player.Assists</td>
-            <td>@player.TeamName</td>
-            <td>
-                <a asp-action="Details" asp-route-id="@player.Id" class="btn btn-info">Details</a>
-                <a asp-action="Edit" asp-route-id="@player.Id" class="btn btn-warning">Edit</a>
-                <a asp-action="Delete" asp-route-id="@player.Id" class="btn btn-danger">Delete</a>
-            </td>
-        </tr>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered shadow-sm">
+                <thead class="table-dark text-center">
+                    <tr>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>Age</th>
+                        <th>Goals</th>
+                        <th>Assists</th>
+                        <th>Team</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                @foreach (var player in Model)
+                {
+                    <tr>
+                        <td>@player.Name</td>
+                        <td>@player.Position</td>
+                        <td>@player.Age</td>
+                        <td><strong>@player.GoalsScored</strong></td>
+                        <td><strong>@player.Assists</strong></td>
+                        <td>@player.TeamName</td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@player.Id" class="btn btn-info btn-sm">View</a>
+                            <a asp-action="Edit" asp-route-id="@player.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@player.Id" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
     }
-    </tbody>
-</table>
+    else
+    {
+        <div class="alert alert-secondary text-center">No players added yet.</div>
+    }
+</div>

@@ -4,36 +4,48 @@
     ViewData["Title"] = "Matches";
 }
 
-<h1>Matches</h1>
+<div class="container mt-4">
+    <h1 class="text-center">Match Fixtures</h1>
 
-<p>
-    <a asp-action="Create" class="btn btn-primary">Create New Match</a>
-</p>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <p class="lead">Track all the match results below.</p>
+        <a asp-action="Create" class="btn btn-primary">➕ Add New Match</a>
+    </div>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Home Team</th>
-            <th>Away Team</th>
-            <th>Date</th>
-            <th>Score</th>
-            <th>Actions</th>
-        </tr>
-    </thead>
-    <tbody>
-    @foreach (var item in Model)
+    @if (Model.Any())
     {
-        <tr>
-            <td>@item.HomeTeamName</td>
-            <td>@item.AwayTeamName</td>
-            <td>@item.MatchDate.ToString("yyyy-MM-dd")</td>
-            <td>@item.HomeTeamScore - @item.AwayTeamScore</td>
-            <td>
-                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
-                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
-                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> <!-- ✅ Delete Button -->
-            </td>
-        </tr>
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered shadow-sm">
+                <thead class="table-dark text-center">
+                    <tr>
+                        <th>Home Team</th>
+                        <th>Away Team</th>
+                        <th>Date</th>
+                        <th>Score</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody class="text-center">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.HomeTeamName</td>
+                        <td>@item.AwayTeamName</td>
+                        <td>@item.MatchDate.ToString("yyyy-MM-dd")</td>
+                        <td><strong>@item.HomeTeamScore</strong> - <strong>@item.AwayTeamScore</strong></td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">View</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
     }
-    </tbody>
-</table>
+    else
+    {
+        <div class="alert alert-secondary text-center">No matches scheduled yet.</div>
+    }
+</div>

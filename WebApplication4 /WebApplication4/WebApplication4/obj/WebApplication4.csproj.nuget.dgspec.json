@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/WebApplication4.csproj": {}
+    "/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/WebApplication4.csproj": {}
   },
   "projects": {
-    "/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/WebApplication4.csproj": {
+    "/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/WebApplication4.csproj",
+        "projectUniqueName": "/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/WebApplication4.csproj",
         "projectName": "WebApplication4",
-        "projectPath": "/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/WebApplication4.csproj",
+        "projectPath": "/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/WebApplication4.csproj",
         "packagesPath": "/Users/nilavan/.nuget/packages/",
-        "outputPath": "/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/obj/",
+        "outputPath": "/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nilavan/.nuget/NuGet/NuGet.Config"

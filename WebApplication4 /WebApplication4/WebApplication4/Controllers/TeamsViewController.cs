@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 using System.Text;
 using WebApplication4.Dtos;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FootballHub.Controllers
 {
@@ -30,6 +31,7 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error fetching teams data.";
             return View(new List<TeamDto>());
         }
+[Authorize]
 
         // ✅ SHOW TEAM DETAILS
         public async Task<IActionResult> Details(int id)
@@ -45,7 +47,7 @@ namespace FootballHub.Controllers
 
             return NotFound();
         }
-
+[Authorize]
         // ✅ SHOW CREATE FORM
         public IActionResult Create()
         {
@@ -69,7 +71,7 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error creating team.";
             return View(team);
         }
-
+[Authorize]
         // ✅ SHOW EDIT FORM
         public async Task<IActionResult> Edit(int id)
         {
@@ -102,7 +104,7 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error updating team.";
             return View(team);
         }
-
+[Authorize]
         // ✅ SHOW DELETE CONFIRMATION PAGE
         public async Task<IActionResult> Delete(int id)
         {

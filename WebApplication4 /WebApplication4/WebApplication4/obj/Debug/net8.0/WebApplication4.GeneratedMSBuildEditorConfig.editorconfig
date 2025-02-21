@@ -9,109 +9,109 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication4
 build_property.RootNamespace = WebApplication4
-build_property.ProjectDir = /Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/
+build_property.ProjectDir = /Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4
+build_property.MSBuildProjectDirectory = /Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Areas/Identity/Pages/_ViewStart.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Home/Index.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Home/Privacy.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/MatchesView/Create.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/MatchesView/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0Y2hlc1ZpZXcvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/MatchesView/Delete.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/MatchesView/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0Y2hlc1ZpZXcvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/MatchesView/Details.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/MatchesView/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0Y2hlc1ZpZXcvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/MatchesView/Edit.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/MatchesView/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0Y2hlc1ZpZXcvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/MatchesView/Index.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/MatchesView/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWF0Y2hlc1ZpZXcvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/PlayersView/Create.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/PlayersView/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWVyc1ZpZXcvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/PlayersView/Delete.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/PlayersView/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWVyc1ZpZXcvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/PlayersView/Details.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/PlayersView/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWVyc1ZpZXcvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/PlayersView/Edit.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/PlayersView/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWVyc1ZpZXcvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/PlayersView/Index.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/PlayersView/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxheWVyc1ZpZXcvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Shared/Error.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Shared/_LoginPartial.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/TeamsView/Create.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/TeamsView/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhbXNWaWV3L0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/TeamsView/Delete.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/TeamsView/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhbXNWaWV3L0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/TeamsView/Details.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/TeamsView/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhbXNWaWV3L0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/TeamsView/Edit.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/TeamsView/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhbXNWaWV3L0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/TeamsView/Index.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/TeamsView/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGVhbXNWaWV3L0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/_ViewImports.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/_ViewStart.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nilavan/Desktop/WebApplication4 copy/WebApplication4/WebApplication4/Views/Shared/_Layout.cshtml]
+[/Users/nilavan/Desktop/Passion-Project/WebApplication4 /WebApplication4/WebApplication4/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cm89ykopb0
