@@ -39,10 +39,11 @@ namespace FootballHub.Controllers
             return await _player.UpdatePlayer(id, playerDto);
         }
 
-        [HttpDelete("Delete/{id}")]
-        public async Task<ServiceResponse> DeletePlayer(int id)
-        {
-            return await _player.DeletePlayer(id);
-        }
+       [HttpDelete("Delete/{id}")]
+public async Task<ServiceResponse> DeletePlayer(int id)
+{
+    return await _player.DeletePlayer(id);
+}
+
     }
 }

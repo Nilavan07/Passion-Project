@@ -71,28 +71,40 @@ namespace FootballHub.Services
             return new ServiceResponse { Success = true, Message = "Match Created Successfully" };
         }
 
-        // ✅ UPDATE MATCH
-        public async Task<ServiceResponse> UpdateMatch(int id, MatchCreateDto matchDto)
-        {
-            var match = await _context.Matches.FindAsync(id);
-            if (match == null)
-            {
-                return new ServiceResponse { Success = false, Message = "Match Not Found" };
-            }
+      public async Task<ServiceResponse> UpdateMatch(int id, MatchCreateDto matchDto)
+{
+    if (matchDto == null)
+    {
+        return new ServiceResponse { Success = false, Message = "Invalid request. Match data is required." };
+    }
 
-            match.HomeTeamId = matchDto.HomeTeamId;  // ✅ Update with IDs
-            match.AwayTeamId = matchDto.AwayTeamId;
-            match.HomeTeamScore = matchDto.HomeTeamScore;
-            match.AwayTeamScore = matchDto.AwayTeamScore;
-            match.MatchDate = matchDto.MatchDate;
+    var match = await _context.Matches.FindAsync(id);
+    if (match == null)
+    {
+        return new ServiceResponse { Success = false, Message = "Match Not Found" };
+    }
 
-            _context.Matches.Update(match);
-            await _context.SaveChangesAsync();
+    // ✅ Update match details
+    match.HomeTeamId = matchDto.HomeTeamId;
+    match.AwayTeamId = matchDto.AwayTeamId;
+    match.HomeTeamScore = matchDto.HomeTeamScore;
+    match.AwayTeamScore = matchDto.AwayTeamScore;
+    match.MatchDate = matchDto.MatchDate;
 
-            return new ServiceResponse { Success = true, Message = "Match Updated Successfully" };
-        }
+    try
+    {
+        _context.Matches.Update(match);
+        await _context.SaveChangesAsync();
+        return new ServiceResponse { Success = true, Message = "Match Updated Successfully" };
+    }
+    catch (Exception ex)
+    {
+        return new ServiceResponse { Success = false, Message = $"Error updating match: {ex.Message}" };
+    }
+}
 
-        // ✅ DELETE MATCH
+
+        // DELETE MATCH
         public async Task<ServiceResponse> DeleteMatch(int id)
         {
             var match = await _context.Matches.FindAsync(id);

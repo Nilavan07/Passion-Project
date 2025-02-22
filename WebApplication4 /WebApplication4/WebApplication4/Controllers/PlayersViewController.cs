@@ -6,20 +6,21 @@ using System.Threading.Tasks;
 using WebApplication4.Dtos;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
+using FootballHub.Models;
 
 namespace FootballHub.Controllers
 {
     public class PlayersViewController : Controller
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiBaseUrl = "https://localhost:5011/api/players"; // ✅ Adjust as needed
+        private readonly string _apiBaseUrl = "https://localhost:5011/api/players"; //  Adjust as needed
 
         public PlayersViewController(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
 
-        // ✅ LIST PLAYERS
+        // LIST PLAYERS
         public async Task<IActionResult> Index()
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/list");
@@ -34,7 +35,7 @@ namespace FootballHub.Controllers
             ViewBag.Message = "Error fetching players.";
             return View(new List<PlayerDto>());
         }
-        // ✅ PLAYER DETAILS
+        // PLAYER DETAILS
         [Authorize]
 
         public async Task<IActionResult> Details(int id)
@@ -52,13 +53,13 @@ namespace FootballHub.Controllers
         }
 [Authorize]
 
-        // ✅ SHOW CREATE FORM
+        // SHOW CREATE FORM
         public IActionResult Create()
         {
             return View();
         }
 
-        // ✅ HANDLE CREATE FORM SUBMISSION
+        // HANDLE CREATE FORM SUBMISSION
         [HttpPost]
         public async Task<IActionResult> Create(PlayerDto player)
         {
@@ -77,7 +78,7 @@ namespace FootballHub.Controllers
         }
 [Authorize]
 
-        // ✅ SHOW EDIT FORM
+        // SHOW EDIT FORM
         public async Task<IActionResult> Edit(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -92,27 +93,35 @@ namespace FootballHub.Controllers
             return NotFound();
         }
 
-        // ✅ HANDLE EDIT FORM SUBMISSION
-        [HttpPost]
-        public async Task<IActionResult> Edit(int id, PlayerDto player)
-        {
-            if (!ModelState.IsValid) return View(player);
+        // HANDLE EDIT FORM SUBMISSION
+       [HttpPost]
+public async Task<IActionResult> Edit(int id, PlayerDto player)
+{
+    if (!ModelState.IsValid)
+    {
+        ViewBag.Message = "Invalid data submitted.";
+        return View(player);
+    }
 
-            var jsonData = JsonSerializer.Serialize(player);
-            var content = new StringContent(jsonData, Encoding.UTF8, "application/json");
+    var jsonData = JsonSerializer.Serialize(player);
+    var content = new StringContent(jsonData, Encoding.UTF8, "application/json");
 
-            var response = await _httpClient.PutAsync($"{_apiBaseUrl}/update/{id}", content);
+    var response = await _httpClient.PutAsync($"{_apiBaseUrl}/update/{id}", content);
 
-            if (response.IsSuccessStatusCode)
-                return RedirectToAction("Index");
+    if (response.IsSuccessStatusCode)
+        return RedirectToAction("Index");
 
-            ViewBag.Message = "Error updating player.";
-            return View(player);
-        }
+    var errorResponse = await response.Content.ReadAsStringAsync();
+    ViewBag.Message = $"Error updating player: {errorResponse}";
+    
+    return View(player);
+}
+
+
         [Authorize]
 
 
-        // ✅ DELETE CONFIRMATION PAGE
+        // DELETE CONFIRMATION PAGE
         public async Task<IActionResult> Delete(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -128,16 +137,17 @@ namespace FootballHub.Controllers
         }
 
         // ✅ HANDLE DELETE REQUEST
-        [HttpPost, ActionName("Delete")]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var response = await _httpClient.DeleteAsync($"{_apiBaseUrl}/delete/{id}");
+       [HttpPost, ActionName("Delete")]
+public async Task<IActionResult> DeleteConfirmed(int id)
+{
+    var response = await _httpClient.DeleteAsync($"{_apiBaseUrl}/delete/{id}");
 
-            if (response.IsSuccessStatusCode)
-                return RedirectToAction("Index");
+    if (response.IsSuccessStatusCode)
+        return RedirectToAction("Index");
 
-            ViewBag.Message = "Error deleting player.";
-            return RedirectToAction("Index");
-        }
+    ViewBag.Message = "Error deleting player.";
+    return RedirectToAction("Index");
+}
+
     }
 }

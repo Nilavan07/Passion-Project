@@ -1,33 +1,44 @@
 @model WebApplication4.Dtos.MatchCreateDto
 
+
 @{
     ViewData["Title"] = "Edit Match";
 }
 
-<h1>Edit Match</h1>
+<h1 class="text-center">Edit Match</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-danger">@ViewBag.Message</div>
+}
 
 <form asp-action="Edit" method="post">
-    <input type="hidden" asp-for="HomeTeamId" />  <!-- ✅ Hidden ID Field -->
 
     <div class="form-group">
-        <label>Home Team ID</label>
+        <label>Home Team</label>
         <input asp-for="HomeTeamId" type="number" class="form-control" required />
     </div>
+
     <div class="form-group">
-        <label>Away Team ID</label>
+        <label>Away Team</label>
         <input asp-for="AwayTeamId" type="number" class="form-control" required />
     </div>
+
     <div class="form-group">
         <label>Match Date</label>
         <input asp-for="MatchDate" type="date" class="form-control" required />
     </div>
+
     <div class="form-group">
         <label>Home Team Score</label>
         <input asp-for="HomeTeamScore" type="number" class="form-control" required />
     </div>
+
     <div class="form-group">
         <label>Away Team Score</label>
         <input asp-for="AwayTeamScore" type="number" class="form-control" required />
     </div>
-    <button type="submit" class="btn btn-success">Save Changes</button>
+
+    <button type="submit" class="btn btn-success mt-3">Update</button>
+    <a asp-action="Index" class="btn btn-secondary mt-3">Cancel</a>
 </form>

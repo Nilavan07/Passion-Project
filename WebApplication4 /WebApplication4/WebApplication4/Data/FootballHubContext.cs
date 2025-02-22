@@ -30,10 +30,11 @@ namespace FootballHub.Data
                 .HasForeignKey(m => m.AwayTeamId)
                 .OnDelete(DeleteBehavior.Restrict);
 
-            modelBuilder.Entity<Player>()
-                .HasOne(p => p.Team)
-                .WithMany(t => t.Players)
-                .HasForeignKey(p => p.TeamId);
+          modelBuilder.Entity<Player>()
+        .HasOne(p => p.Team)
+        .WithMany(t => t.Players)
+        .HasForeignKey(p => p.TeamId)
+        .OnDelete(DeleteBehavior.Cascade); 
         }
     }
 }

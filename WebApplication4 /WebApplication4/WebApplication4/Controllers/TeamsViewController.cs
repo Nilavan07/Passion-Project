@@ -9,14 +9,14 @@ namespace FootballHub.Controllers
     public class TeamsViewController : Controller
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiBaseUrl = "https://localhost:5011/api/teams"; // ✅ Change if needed
+        private readonly string _apiBaseUrl = "https://localhost:5011/api/teams"; 
 
         public TeamsViewController(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
 
-        // ✅ LIST ALL TEAMS
+        // LIST ALL TEAMS
         public async Task<IActionResult> Index()
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/list");
@@ -33,7 +33,7 @@ namespace FootballHub.Controllers
         }
 [Authorize]
 
-        // ✅ SHOW TEAM DETAILS
+        //SHOW TEAM DETAILS
         public async Task<IActionResult> Details(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -48,13 +48,13 @@ namespace FootballHub.Controllers
             return NotFound();
         }
 [Authorize]
-        // ✅ SHOW CREATE FORM
+        //  SHOW CREATE FORM
         public IActionResult Create()
         {
             return View();
         }
 
-        // ✅ HANDLE CREATE FORM SUBMISSION
+        // HANDLE CREATE FORM SUBMISSION
         [HttpPost]
         public async Task<IActionResult> Create(TeamDto team)
         {
@@ -72,7 +72,7 @@ namespace FootballHub.Controllers
             return View(team);
         }
 [Authorize]
-        // ✅ SHOW EDIT FORM
+        // SHOW EDIT FORM
         public async Task<IActionResult> Edit(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -87,7 +87,7 @@ namespace FootballHub.Controllers
             return NotFound();
         }
 
-        // ✅ HANDLE EDIT FORM SUBMISSION
+        // HANDLE EDIT FORM SUBMISSION
         [HttpPost]
         public async Task<IActionResult> Edit(int id, TeamDto team)
         {
@@ -105,7 +105,7 @@ namespace FootballHub.Controllers
             return View(team);
         }
 [Authorize]
-        // ✅ SHOW DELETE CONFIRMATION PAGE
+        // SHOW DELETE CONFIRMATION PAGE
         public async Task<IActionResult> Delete(int id)
         {
             var response = await _httpClient.GetAsync($"{_apiBaseUrl}/{id}");
@@ -120,7 +120,7 @@ namespace FootballHub.Controllers
             return NotFound();
         }
 
-        // ✅ HANDLE DELETE ACTION
+        // HANDLE DELETE ACTION
         [HttpPost, ActionName("DeleteConfirmed")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
